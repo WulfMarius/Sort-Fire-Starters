@@ -1,0 +1,9 @@
+﻿{
+	"name": "Sort-Fire-Starters",
+	"description": "Provides a more practical sort order for fire starters when building a fire.",
+	"releases": [
+		{
+			"version": "2.0.0"
+		}
+	]
+}
